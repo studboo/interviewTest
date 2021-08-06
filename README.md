@@ -1,6 +1,7 @@
 # Interview Test
 Solution is in JS file 
-https://github.com/studboo/interviewTest/blob/main/solution-to-bob-the-builder-javascript.js
+https://github.com/studboo/interviewTest/blob/main/solution-to-bob-the-builder-javascript.js  
+
 Bob the builder has built N number of buildings. Each building has a certain floor area and a price tag.
 Bob wants to sell exactly K of his buildings.
 
